@@ -1,0 +1,289 @@
+<!-- Copyright (C) 2016 The Android Open Source Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources>
+    <!-- Title for the application. [CHAR LIMIT=12] -->
+    <string name="app_name">Aamchi Mumbai</string>
+
+    <!-- Category name for guide shop [CHAR LIMIT=20] -->
+    <string name="guide_shop">SHOP</string>
+
+    <!-- Category name for guide sleep[CHAR LIMIT=20] -->
+    <string name="guide_sleep">SLEEP</string>
+
+    <!-- Category name for the guide eat [CHAR LIMIT=20] -->
+    <string name="guide_eat">EAT</string>
+
+    <!-- Category name for the guide see [CHAR LIMIT=20] -->
+    <string name="guide_see">SEE</string>
+
+    <!-- Hotel name for Gajalee [CHAR LIMIT=20] -->
+    <string name="eat_gajalee">Gajalee</string>
+
+    <!-- Hotel details for Gajalee [CHAR LIMIT=20] -->
+    <string name="details_gajalee">SEAFOOD, VILEPARLE EAST</string>
+
+    <!--Hotel name for Dakshinayan [CHAR LIMIT=20] -->
+    <string name="eat_dakshinayan">Dakshinayan</string>
+
+    <!--Hotel details for Dakshinayan [CHAR LIMIT=20] -->
+    <string name="details_dakshinayan">SOUTH INDIAN, JUHU</string>
+
+    <!-- Hotel name for 5 Spice [CHAR LIMIT=20] -->
+    <string name="eat_5Spice">5 Spice</string>
+
+    <!--Hotel details for 5 Spice [CHAR LIMIT=20] -->
+    <string name="details_5Spice">INDO-CHINESE, BANDRA WEST</string>
+
+    <!-- Hotel name for Bademiya Restaurant [CHAR LIMIT=20] -->
+    <string name="eat_bademiyarestaurant">Bademiya Restaurant</string>
+
+    <!--Hotel details for Bademiya Restaurant [CHAR LIMIT=20] -->
+    <string name="details_bademiyarestaurant">MUGHLAI, COLABA</string>
+
+    <!-- Hotel name for Khyani & Co." [CHAR LIMIT=20] -->
+    <string name="eat_khyani">Khyani and Co."</string>
+
+    <!--Hotel details for Khyani & Co. [CHAR LIMIT=20] -->
+    <string name="details_Khyani">IRANI CAFE, MARINE LINES</string>
+
+    <!-- Hotel name for Hotel Ram Ashraya[CHAR LIMIT=20] -->
+    <string name="eat_ashraya">Hotel Ram Ashraya</string>
+
+    <!--Hotel details for Khyani & Co. [CHAR LIMIT=20] -->
+    <string name="details_ashraya">SOUTH INDIAN, KING CIRCLE</string>
+
+    <!-- Hotel name for Trishna [CHAR LIMIT=20] -->
+    <string name="eat_trishna">Trishna</string>
+
+    <!--Hotel details for Trishna [CHAR LIMIT=20] -->
+    <string name="details_trishna">SEAFOOD, CHURCHGATE</string>
+
+    <!-- Hotel name for Candies Cafe [CHAR LIMIT=20] -->
+    <string name="eat_Candies">Candies Cafe</string>
+
+    <!--Hotel details for Candies Cafe [CHAR LIMIT=20] -->
+    <string name="details_Candies">CAFE FOOD, PALI HILL</string>
+
+    <!-- Hotel name for Babu Vada Pav [CHAR LIMIT=20] -->
+    <string name="eat_babu">Babu Vada Pav</string>
+
+    <!--Hotel details for Babu Vada Pav [CHAR LIMIT=20] -->
+    <string name="details_babu">STREET FOOD, VILEPARLE EAST</string>
+
+    <!-- Hotel name for Raaj Bhog [CHAR LIMIT=20] -->
+    <string name="eat_bhog">Raaj Bhog</string>
+
+    <!--Hotel details for Raaj Bhog [CHAR LIMIT=20] -->
+    <string name="details_bhog">GUJARATI THALI, KHAR</string>
+
+    <!-- Hotel name for Theobroma[CHAR LIMIT=20] -->
+    <string name="eat_theobroma">Theobroma</string>
+
+    <!--Hotel details for Theobroma [CHAR LIMIT=20] -->
+    <string name="details_theobroma">CAFE, CHURCHGATE</string>
+
+    <!-- Hotel name for PIZZA BY THE BAY[CHAR LIMIT=20] -->
+    <string name="eat_pizza">PIZZA BY THE BAY</string>
+
+    <!--Hotel details for PIZZA BY THE BAY [CHAR LIMIT=20] -->
+    <string name="details_pizza">PIZZA, MARINE LINES</string>
+
+    <!-- Shop name for Chor Bazaar[CHAR LIMIT=20] -->
+    <string name="shop_chorbazaar">Chor Bazaar</string>
+
+    <!--Shop details for Chor Bazaar[CHAR LIMIT=20] -->
+    <string name="details_chorbazaar">ANTIQUES, BHULESHWAR</string>
+
+    <!-- Shop name for Fabindia[CHAR LIMIT=20] -->
+    <string name="shop_Fabindia">Fabindia</string>
+
+    <!--Shop details for Fabindia[CHAR LIMIT=20] -->
+    <string name="details_Fabindia">CLOTHING, CHURCHGATE</string>
+
+    <!-- Shop name for Crossword[CHAR LIMIT=20] -->
+    <string name="shop_Crossword">Crossword</string>
+
+    <!--Shop details for Crossword[CHAR LIMIT=20] -->
+    <string name="details_Crossword">BOOKS, BANDRA WEST</string>
+
+    <!-- Shop name for GOOD EARTH[CHAR LIMIT=20] -->
+    <string name="shop_goodearth">GOOD EARTH</string>
+
+    <!--Shop details for GOOD EARTH[CHAR LIMIT=20] -->
+    <string name="details_goodearth">ARTS AND CRAFTS, COLABA</string>
+
+    <!-- Shop name for High Street Pheonix[CHAR LIMIT=20] -->
+    <string name="shop_highstreet">High Street Pheonix</string>
+
+    <!--Shop details for High Street Pheonix[CHAR LIMIT=20] -->
+    <string name="details_highstreet">MALL, LOWER PAREL</string>
+
+    <!-- Shop name for Kala Niketan[CHAR LIMIT=20] -->
+    <string name="shop_kalaniketan">Kala Niketan</string>
+
+    <!--Shop details for Kala Niketan[CHAR LIMIT=20] -->
+    <string name="details_kalaniketan">TRADITIONAL CLOTHING, JUHU</string>
+
+    <!-- Shop name for Lalbaug Market[CHAR LIMIT=20] -->
+    <string name="shop_Lalbaugmarket">Lalbaug Market</string>
+
+    <!--Shop details for Lalbaug Market[CHAR LIMIT=20] -->
+    <string name="details_Lalbaugmarket">SPICES, LALBAUG</string>
+
+    <!-- Shop name for Fashion Street[CHAR LIMIT=20] -->
+    <string name="shop_fashionstreet">Fashion Street</string>
+
+    <!--Shop details for Fashion Street[CHAR LIMIT=20] -->
+    <string name="details_fashionstreet">MARKET, CHURCHGATE</string>
+
+    <!-- Shop name for Nalli Silk Sarees[CHAR LIMIT=20] -->
+    <string name="shop_nallisilk">Nalli Silk Sarees</string>
+
+    <!--Shop details for Nalli Silk Sarees[CHAR LIMIT=20] -->
+    <string name="details_nallisilk">SAREE AND CLOTHING, MAHALAKSHMI</string>
+
+    <!-- Shop name for Dadar Flower Market[CHAR LIMIT=20] -->
+    <string name="shop_flowermarket">Dadar Flower Markets</string>
+
+    <!--Shop details for Dadar Flower Market[CHAR LIMIT=20] -->
+    <string name="details_flowermarket">MARKET, DADAR</string>
+
+    <!-- Shop name for Vijay Sales[CHAR LIMIT=20] -->
+    <string name="shop_vijaysales">Vijay Sales</string>
+
+    <!--Shop details for Vijay Sales[CHAR LIMIT=20] -->
+    <string name="details_vijaysales">ELECTRONICS, SANTACRUZ</string>
+
+    <!-- Shop name for Bombay Shirt Company[CHAR LIMIT=20] -->
+    <string name="shop_bombayshirt">Bombay Shirt Company</string>
+
+    <!--Shop details for Bombay Shirt Company[CHAR LIMIT=20] -->
+    <string name="details_bombayshirt">CLOTHING, MARINE LINES</string>
+
+    <!-- Sleep name for Abode Bombay[CHAR LIMIT=20] -->
+    <string name="sleep_abodebombay">Abode Bombay</string>
+
+    <!--Sleep details for Abode Bombay[CHAR LIMIT=20] -->
+    <string name="details_abodebombay">BOUTIQUE HOTEL, COLABA</string>
+
+    <!-- Sleep name for ITC Maratha[CHAR LIMIT=20] -->
+    <string name="sleep_itcmaratha">ITC Maratha</string>
+
+    <!--Sleep details for ITC Maratha[CHAR LIMIT=20] -->
+    <string name="details_itcmaratha">LUXURY HOTEL, SAKINAKA</string>
+
+    <!-- Sleep name for Taj Mahal Palace[CHAR LIMIT=20] -->
+    <string name="sleep_taj">Taj Mahal Palace</string>
+
+    <!--Sleep details for Taj Mahal Palace[CHAR LIMIT=20] -->
+    <string name="details_taj">HERITAGE HOTEL, CHURCHGATE</string>
+
+    <!-- Sleep name for Backpackers Panda[CHAR LIMIT=20] -->
+    <string name="sleep_backpackerspanda">Backpackers Panda</string>
+
+    <!--Sleep details for Backpackers Panda[CHAR LIMIT=20] -->
+    <string name="details_backpackerspanda">HOSTEL, COLABA</string>
+
+    <!-- Sleep name for Four Seasons Hotel[CHAR LIMIT=20] -->
+    <string name="sleep_fourseasons">Four Seasons Hotel</string>
+
+    <!--Sleep details for Four Seasons Hotel[CHAR LIMIT=20] -->
+    <string name="details_fourseasons">5 STAR HOTEL, LOWER PAREL</string>
+
+    <!-- Sleep name for ISKCON[CHAR LIMIT=20] -->
+    <string name="sleep_iskcon">ISKCON</string>
+
+    <!--Sleep details for ISKCON[CHAR LIMIT=20] -->
+    <string name="details_iskcon">GUESTHOUES, ANDHERI</string>
+
+    <!-- Sleep name for SUN-N-SAND[CHAR LIMIT=20] -->
+    <string name="sleep_sunandsand">SUN-N-SAND</string>
+
+    <!--Sleep details for SUN-N-SAND[CHAR LIMIT=20] -->
+    <string name="details_sunandsand">4 STAR HOTEL, JUHU</string>
+
+    <!-- Sleep name for TRIDENT[CHAR LIMIT=20] -->
+    <string name="sleep_trident">TRIDENT</string>
+
+    <!--Sleep details for TRIDENT[CHAR LIMIT=20] -->
+    <string name="details_trident">LUXURY HOTEL, NARIMAN POINT</string>
+
+    <!-- Sleep name for Bombay Backpackers[CHAR LIMIT=20] -->
+    <string name="sleep_bombaybackpackers">Bombay Backpackers</string>
+
+    <!--Sleep details for Bombay Backpackers[CHAR LIMIT=20] -->
+    <string name="details_bombaybackpackers">HOSTEL, BKC</string>
+
+    <!-- Sleep name for Taj Santacruz[CHAR LIMIT=20] -->
+    <string name="sleep_tajsantacruz">Taj Santacruz</string>
+
+    <!--Sleep details for Taj Santacruz[CHAR LIMIT=20] -->
+    <string name="details_tajsantacruz">LUXURY HOTEL, SANTACRUZ</string>
+
+    <!-- Sleep name for Sea Shore Hotel[CHAR LIMIT=20] -->
+    <string name="sleep_seashore">Sea Shore Hotel</string>
+
+    <!--Sleep details for Sea Shore Hotel[CHAR LIMIT=20] -->
+    <string name="details_seashore">GUESTHOUSE, CHURCHGATE</string>
+
+    <!-- Sleep name for Juhu Residency[CHAR LIMIT=20] -->
+    <string name="sleep_juhuresidency">Juhu Residency</string>
+
+    <!--Sleep details for Juhu Residency[CHAR LIMIT=20] -->
+    <string name="details_juhuresidency">BOUTIQUE HOTEL, JUHU</string>
+
+    <!-- Place name for Chhatrapati Shivaji Maharaj Terminus[CHAR LIMIT=20] -->
+    <string name="place_terminus">Chhatrapati Shivaji Maharaj Terminus</string>
+
+    <!--Place details for Chhatrapati Shivaji Maharaj Terminus[CHAR LIMIT=20] -->
+    <string name="details_terminus">HISTORIC BUILDING, FORT</string>
+
+    <!-- Place name for Elephanta Caves[CHAR LIMIT=20] -->
+    <string name="place_caves">Elephanta Caves</string>
+
+    <!--Place details for Elephanta Caves[CHAR LIMIT=20] -->
+    <string name="details_caves">HINDU TEMPLE, GHARPURI</string>
+
+    <!-- Place name for Gateway of India[CHAR LIMIT=20] -->
+    <string name="place_gateway">Gateway of India</string>
+
+    <!--Place details for Gateway of India[CHAR LIMIT=20] -->
+    <string name="details_gateway">MONUMENT, CHURCHGATE</string>
+
+    <!-- Place name for Lalbaug Market[CHAR LIMIT=20] -->
+    <string name="place_market">Lalbaug Market</string>
+
+    <!--Place details for Lalbaug Market[CHAR LIMIT=20] -->
+    <string name="details_market">SPICE MARKET, LALBAUG</string>
+
+    <!-- Place name for Juhu Beach[CHAR LIMIT=20] -->
+    <string name="place_beach">Juhu Beach</string>
+
+    <!--Place details for Juhu Beach[CHAR LIMIT=20] -->
+    <string name="details_beach">BEACH, Juhu</string>
+
+    <!-- Place name for ISKCON Temple[CHAR LIMIT=20] -->
+    <string name="place_temple">ISKCON Temple</string>
+
+    <!--Place details for ISKCON Temple[CHAR LIMIT=20] -->
+    <string name="details_temple">TEMPLE, ANDHERI</string>
+
+    <!-- Place name for Sanjay Gandhi National Park[CHAR LIMIT=20] -->
+    <string name="place_nationalpark">Sanjay Gandhi National Park</string>
+
+    <!--Place details for Sanjay Gandhi National Park[CHAR LIMIT=20] -->
+    <string name="details_nationalpark">NATIONAL PARK, BORIVALI</string>
+
+</resources>
